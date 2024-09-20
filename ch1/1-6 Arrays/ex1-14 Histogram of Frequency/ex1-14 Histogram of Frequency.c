@@ -1,3 +1,5 @@
+// programmed by Tae Soo Yun, copyright@ all right reserved
+
 #include <stdio.h>
 
 #define NUM_CHARS 128  // ASCII characters range from 0 to 127
