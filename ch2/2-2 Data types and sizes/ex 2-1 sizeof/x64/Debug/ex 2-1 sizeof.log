@@ -1,0 +1,18 @@
+﻿  sizeof.c
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(4,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(4,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(5,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(5,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(6,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(6,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(7,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(8,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(9,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(10,9): message : consider using '%zd' in the format string
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\source\whitebook\ch2\2-2 Data types and sizes\ex 2-1 sizeof\sizeof.c(11,9): message : consider using '%zd' in the format string
+  ex 2-1 sizeof.vcxproj -> D:\source\whitebook\ch2\2-2 Data types and sizes\x64\Debug\ex 2-1 sizeof.exe
