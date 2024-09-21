@@ -1,6 +1,6 @@
 ﻿  2-3 Constants.c
-D:\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(7,1): warning C4005: 'VTAB': macro redefinition
-D:\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(4,1): message : see previous definition of 'VTAB'
-D:\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(8,1): warning C4005: 'BELL': macro redefinition
-D:\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(5,1): message : see previous definition of 'BELL'
-  2-3 Constants.vcxproj -> D:\source\whitebook\ch2\2-3 Constants\x64\Debug\2-3 Constants.exe
+D:\GoogleDrv_NM1024_01\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(7,1): warning C4005: 'VTAB': macro redefinition
+D:\GoogleDrv_NM1024_01\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(4,1): message : see previous definition of 'VTAB'
+D:\GoogleDrv_NM1024_01\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(8,1): warning C4005: 'BELL': macro redefinition
+D:\GoogleDrv_NM1024_01\source\whitebook\ch2\2-3 Constants\2-3 Constants\2-3 Constants.c(5,1): message : see previous definition of 'BELL'
+  2-3 Constants.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch2\2-3 Constants\x64\Debug\2-3 Constants.exe
