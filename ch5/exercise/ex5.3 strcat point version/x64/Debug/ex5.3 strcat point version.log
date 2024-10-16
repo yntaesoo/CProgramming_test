@@ -1,0 +1,3 @@
+﻿  ex5.3 strcat pointer version.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch5\exercise\ex5.3 strcat point version\ex5.3 strcat pointer version.c(9,9): warning C4101: 'len': unreferenced local variable
+  ex5.3 strcat point version.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch5\exercise\x64\Debug\ex5.3 strcat point version.exe
