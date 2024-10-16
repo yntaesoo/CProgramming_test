@@ -1,0 +1,8 @@
+﻿  getch.c
+  getop.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch4\4.3 external variables\4.4 scope rule\getop.c(21,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+  main.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch4\4.3 external variables\4.4 scope rule\main.c(39,22): warning C4013: 'fmod' undefined; assuming extern returning int
+  stack.c
+  Generating Code...
+  4.4 scope rule.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch4\4.3 external variables\x64\Debug\4.4 scope rule.exe
