@@ -1,0 +1,7 @@
+﻿  3.6 Do while_itoa.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch3\3.6 Do while\3.6 Do while\3.6 Do while_itoa.c(12,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\GoogleDrv_NM1024_01\source\whitebook\ch3\3.6 Do while\3.6 Do while\3.6 Do while_itoa.c(45,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+D:\GoogleDrv_NM1024_01\source\whitebook\ch3\3.6 Do while\3.6 Do while\3.6 Do while_itoa.c(45,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+D:\GoogleDrv_NM1024_01\source\whitebook\ch3\3.6 Do while\3.6 Do while\3.6 Do while_itoa.c(39,9): warning C4101: 'j': unreferenced local variable
+D:\GoogleDrv_NM1024_01\source\whitebook\ch3\3.6 Do while\3.6 Do while\3.6 Do while_itoa.c(39,6): warning C4101: 'i': unreferenced local variable
+  3.6 Do while.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch3\3.6 Do while\x64\Debug\3.6 Do while.exe
