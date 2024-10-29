@@ -1,0 +1,4 @@
+﻿  ch07_ReadScore.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\ch07_ReadScore\ch07_ReadScore.c(24,28): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\ch07_ReadScore\ch07_ReadScore.c(48,29): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+  ch07_ReadScore.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\x64\Debug\ch07_ReadScore.exe

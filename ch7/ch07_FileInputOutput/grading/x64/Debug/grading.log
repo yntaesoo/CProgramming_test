@@ -1,0 +1,5 @@
+﻿  grade.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\grading\grade.c(70,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\grading\grade.c(79,38): warning C4020: 'bubblesort': too many actual parameters
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\grading\grade.c(105,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  grading.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\x64\Debug\grading.exe

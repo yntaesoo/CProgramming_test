@@ -1,0 +1,6 @@
+﻿  ch07_FileIOCmdline.c
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\ch07_FileIOCmdline\ch07_FileIOCmdline.c(16,27): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\ch07_FileIOCmdline\ch07_FileIOCmdline.c(17,21): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\ch07_FileIOCmdline\ch07_FileIOCmdline.c(18,5): warning C4013: 'exit' undefined; assuming extern returning int
+D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\ch07_FileIOCmdline\ch07_FileIOCmdline.c(9,8): warning C4133: 'initializing': incompatible types - from 'int *' to 'char *'
+  ch07_FileIOCmdline.vcxproj -> D:\GoogleDrv_NM1024_01\source\whitebook\ch7\ch07_FileInputOutput\x64\Debug\ch07_FileIOCmdline.exe
